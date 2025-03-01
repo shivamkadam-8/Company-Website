@@ -24,12 +24,10 @@ export default function OurCulture() {
             <h2 className="text-3xl font-semibold text-gray-900 mb-4">Our Values</h2>
                        <img className="w-full" src="https://plus.unsplash.com/premium_photo-1682437249470-f852445f3a06?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt=""  srcset="" />
 
-            <ul className="list-disc list-inside text-gray-700 space-y-2">
-              <li>Integrity & Transparency</li>
-              <li>Innovation & Excellence</li>
-              <li>Collaboration & Teamwork</li>
-              <li>Customer-Centric Approach</li>
-            </ul>
+            <p className="list-disc list-inside text-gray-700 space-y-2">
+              We believe in integrity, ensuring transparency and honesty in all our interactions. Innovation drives us to constantly improve and adapt, delivering cutting-edge solutions to our customers.
+            </p>
+            
           </div>
         </div>
 
